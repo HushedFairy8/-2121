@@ -1,1 +1,1 @@
-print('helo teacher')
+print('hello teacher')
